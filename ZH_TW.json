@@ -26,5 +26,6 @@
       "required": "{field} 為必填",
       "required_if": "{field} 為必填",
       "size": "{field} 的檔案須小於 0:{size}KB"
+      
     }
   }
